@@ -22,3 +22,6 @@ data/index/
 
 # ---- macOS cruft ----
 .DS_Store
+
+trace.txt
+*.log
